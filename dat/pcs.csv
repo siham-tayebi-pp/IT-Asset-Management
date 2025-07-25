@@ -1,0 +1,6 @@
+name,owner,department,status,ram,cpu,os,lastActivity,serial
+PC-COMPTA-01,user,Comptabilité,Affecté,16 GB,Intel i5-12400,Windows 11 Pro,2h,SN-COMPTA-001
+PC-RH-01,delegate,RH,Délégué,32 GB,Intel i7-13700,Windows 11 Pro,1h,SN-RH-002
+PC-MARKETING-01,Non assigné,Marketing,Non affecté,8 GB,Intel i3-10100,Windows 10 Pro,1j,SN-MARKETING-003
+PC-VENTES-01,marie.dupont,Ventes,En congé,16 GB,AMD Ryzen 5 5600,Windows 11 Pro,2j,SN-VENTES-004
+PC-IT-01,admin,IT,Affecté,64 GB,Intel i9-13900K,Windows 11 Pro,À l'instant,SN-IT-005

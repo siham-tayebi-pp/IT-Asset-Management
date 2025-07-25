@@ -1,0 +1,3 @@
+name;entities_id;users_id_tech;serial;otherserial;comment;operatingsystems_id
+PC-JDOE;0;jdoe;SN123456;OS-9876;PC de John;1
+PC-ASMITH;0;asmith;SN654321;OS-5432;PC de Anna;1

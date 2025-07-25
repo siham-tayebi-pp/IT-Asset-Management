@@ -1,0 +1,5 @@
+username,lastname,firstname,email,phone,matricule,mobile,comments
+john.doe,Doe,John,john.doe@company.com,+33123456789,EMP001,+33987654321,Développeur senior
+marie.martin,Martin,Marie,marie.martin@company.com,+33123456790,EMP002,+33987654322,Responsable RH
+pierre.durand,Durand,Pierre,pierre.durand@company.com,+33123456791,EMP003,+33987654323,Technicien IT
+sophie.bernard,Bernard,Sophie,sophie.bernard@company.com,+33123456792,EMP004,+33987654324,Comptable
